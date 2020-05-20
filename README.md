@@ -1,2 +1,3 @@
-# nuxt-comps
-Created with CodeSandbox
+# @nuxt/components
+
+https://github.com/nuxt/components
